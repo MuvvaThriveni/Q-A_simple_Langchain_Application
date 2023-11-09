@@ -1,0 +1,5 @@
+langchain == 0.0.332
+OpenAI == 0.28.0
+streamlit
+python-dotenv==1.0.0
+huggingface_hub
